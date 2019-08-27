@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479849859 source:c:\users\khaled\desktop\icy_simulation\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
